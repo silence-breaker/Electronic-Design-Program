@@ -6,7 +6,7 @@
 
 ## 环境搭建
 
-- [ ] ESP32S3N18R6+vscode+idf
+- [ ] ESP32S3N18R6+vscode+idf+platformio(因为不知道使用idf还是arduino适合，所以先都安装)
 - [ ] solidwork
 - [ ] FreeRTOS+LVGI(可简化代码，毕竟基于RTOS框架)
 - [ ] Proteus(仿真软件)
