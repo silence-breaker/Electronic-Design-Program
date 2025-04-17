@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/02caac27-0c2f-43f0-a007-c43655cef0d6)# 电赛安排
+# 电赛安排
 
 先把这个task management复制到自己的分支里
 
