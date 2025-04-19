@@ -12,7 +12,7 @@
 [手撕Buck！Buck公式推导过程_buck电路输出电压公式-CSDN博客](https://blog.csdn.net/weixin_42005993/article/details/120144144)
 [手撕Boost！Boost公式推导及实验验证-CSDN博客](https://blog.csdn.net/weixin_42005993/article/details/119360319)
 [VSCode+Platfrom io 环境下ESP32配置TFT_eSPI和lvgl驱动1.3寸TFT屏幕_vscode platfromio-CSDN博客](https://blog.csdn.net/want_together/article/details/135407068)(注意我们用的是2.8寸)
-
+[TFT数据手册](http://www.lcdwiki.com/zh/2.8inch_SPI_Module_ILI9341_SKU:MSP2807)
 
 ## 环境搭建
 
