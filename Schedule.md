@@ -175,7 +175,9 @@ ESP32 通过 ADC1_CHANNEL6 读取分压后的电压值（标准电压 × 1/11）
 - PID
 [参考链接](https://www.circlemoon.top/2025/04/17/robotics/AutoPilot-learning-record/Autopilot-learning-record/)
 
-##### 问题总结  
+##### 问题总结
+
+- 引脚没有预留好足够的排针排母  
 
 #### 输出电压电流检测电路
 
