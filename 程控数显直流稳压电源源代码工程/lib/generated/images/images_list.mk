@@ -1,0 +1,1 @@
+GEN_CSRCS += _UI_frame_alpha_260x227.c _BG_1_alpha_320x24.c
